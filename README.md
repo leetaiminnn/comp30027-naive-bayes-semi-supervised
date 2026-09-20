@@ -22,7 +22,3 @@ using a naive Bayes classifier written from first principles.
 Place the four course CSV files under `COMP30027_2026_Assignment1_data/Assignment1_data/`
 and run the notebook top to bottom (Python 3.11+, numpy, pandas, scikit-learn for metrics
 and encoding only, matplotlib). The data files are not included in this repository.
-
-## 中文简介
-
-从零实现混合朴素贝叶斯并扩展为半监督自训练。COMP30027 Machine Learning（墨尔本大学，2026 S1）项目 1，个人完成。
